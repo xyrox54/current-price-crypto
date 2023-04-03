@@ -8,7 +8,7 @@ For example for a DCA wallet and automatically update the current price of said 
 
 #Use with google sheets
 
-=IMPORTDATA("https://swg-currencies.000webhostapp.com/index.php?coin=BTC")
+=IMPORTDATA("https://swg-currencies.000webhostapp.com/price.php?coin=BTC")
 
 
 #Here is the complete list of currencies referenced in our database.
